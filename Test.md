@@ -1,1 +1,1 @@
-Test repo for Workshop 3 n Version control course
+Test repo for Workshop 3 in Version control course
